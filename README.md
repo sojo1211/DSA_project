@@ -1,4 +1,5 @@
 # 📊 IT 아웃소싱 플랫폼 소비자 분석 기반 수수료율 책정 및 매출 증가 전략
+---
 <p align="center">
   <img src="https://github.com/user-attachments/assets/73d9783f-ee7c-4726-95c5-b804c3b29f0f" width="70%" />
 </p>
@@ -6,7 +7,6 @@
   <img src="https://github.com/user-attachments/assets/33127ee1-c999-4c88-9098-b6f05205502a" width="50%" />
 </p>
 
----
 
 ---
 
